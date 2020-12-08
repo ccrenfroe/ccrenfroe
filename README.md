@@ -2,9 +2,9 @@
 **ccrenfroe/ccrenfroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there 👋
+### Hi there 👋 <img src='https://github.com/ccrenfroe/ccrenfroe/blob/master/octocat-1607461525497.png' alt='OctoCat' height='150'>
 
-<img src='https://github.com/ccrenfroe/ccrenfroe/blob/master/octocat-1607461525497.png' alt='OctoCat' height='100'>
+
 
 My name is Caleb Renfroe and I am a recent Loyola University Maryland Computer Science Graduate 🎉
 
