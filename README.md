@@ -6,7 +6,7 @@
 
 
 
-My name is Caleb Renfroe and I am a recent Loyola University Maryland Computer Science Graduate 🎉
+My name is Caleb Renfroe and I am a recent Loyola University Maryland Computer Science Graduate🎉
 
 - 🔭 I’m currently working on a BirdCam using a Raspi4 and creating a Plannerbot for Discord.
 - 🌱 I’m currently learning JavaScript and C++
