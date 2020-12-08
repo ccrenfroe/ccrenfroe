@@ -15,3 +15,4 @@ My name is Caleb Renfroe and I am a recent Loyola University Maryland Computer S
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='50'>](https://dev.to/ccrenfroe)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/caleb-renfroe-543863180/)  
+[<img src='https://github.com/ccrenfroe/ccrenfroe/blob/master/octocat-1607461525497.png' alt='OctoCat' height='50'>]
