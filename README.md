@@ -4,12 +4,6 @@
 
 ### Hi there 👋 <img src='https://github.com/ccrenfroe/ccrenfroe/blob/master/octocat-1607461525497.png' alt='OctoCat' height='250' align = 'right'>
 
-
-
-My name is Caleb Renfroe and I am a recent Loyola University Maryland Computer Science Graduate🎉
-
-- 🔭 I’m currently working on a BirdCam using a Raspi4 and creating a Plannerbot for Discord.
-- 🌱 I’m currently learning JavaScript and C++
 - 👯 I’m looking to collaborate on fun open-source or personal, team projects!
 - 📫 How to reach me: caleb.renfroe007@gmail.com
 
